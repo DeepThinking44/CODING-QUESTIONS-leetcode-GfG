@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/D6-80428-pradeep/CODING-QUESTIONS-leetcode-GfG/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [1182-game-play-analysis-iv](https://github.com/D6-80428-pradeep/CODING-QUESTIONS-leetcode-GfG/tree/master/1182-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
